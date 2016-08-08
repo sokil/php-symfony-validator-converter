@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sokil\\FrontendBundle\\": ["src/", "tests/"]
+            "Sokil\Converter\\": ["src/", "tests/"]
         }
     }
 }

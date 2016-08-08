@@ -1,6 +1,6 @@
 <?php
 
-namespace Sokil\SiteCoreBundle\Converter;
+namespace Sokil\Converter;
 
 use Symfony\Component\Validator\ConstraintViolationListInterface;
 use Symfony\Component\Validator\ConstraintViolationInterface;
