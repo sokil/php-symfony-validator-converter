@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sokil\Converter\\": ["src/", "tests/"]
+            "Sokil\\Converter\\": ["src/", "tests/"]
         }
     }
 }
