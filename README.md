@@ -18,10 +18,10 @@ Useage:
 ```php
 <?php
 
-$errors = $this->get('validator')->validate($order);
+$errors = $this->get('validator')->validate($entity);
 if (count($errors) > 0) {
     $list = $this
-        ->get('normaizol.promo.validator.error_converter')
+        ->get('acme.validator.error_converter')
         ->constraintViolationListToArray($errors);
 }
 ```
