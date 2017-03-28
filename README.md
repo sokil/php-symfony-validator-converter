@@ -14,7 +14,7 @@ acme.validator.error_converter:
   class: Sokil\Converter\ValidationErrorsConverter
 ```
 
-## Useage
+## Usage
 
 ```php
 <?php
